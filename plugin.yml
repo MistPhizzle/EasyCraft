@@ -1,0 +1,13 @@
+name: EasyCraft
+author: MistPhizzle
+version: 1.0.0
+main: com.mistphizzle.easycraft.EasyCraft
+commands:
+  tnt:
+  hopper:
+  chest:
+  trappedchest:
+  easycraft:
+  easyfill:
+  bucket:
+  goldingot:
